@@ -1,0 +1,11 @@
+The three scripts in this chapter power
+its discussion of caches and
+message queues network services
+which are fundamental to how modern
+services scale out to very large numbers of clients
+The queuepi script instead requires
+pyzmq in order to run but does not
+require any central message queue
+to be running It uses a rather abstruse
+set of cooperating workers
+
